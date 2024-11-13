@@ -1,6 +1,6 @@
 ### 1. Introdução
 
-Este projeto explora o uso dos **Azure Cognitive Services** para análise de imagens e reconhecimento de texto. O objetivo é demonstrar como os serviços de inteligência artificial da Azure podem ser aplicados para extrair informações de imagens, com exemplos de reconhecimento facial, OCR (reconhecimento óptico de caracteres) e geração de legendas automáticas.
+Este projeto explora o uso do **Azure Cognitive Services** para análise de imagens e reconhecimento de texto. O objetivo é demonstrar como os serviços de inteligência artificial da Azure podem ser aplicados para extrair informações de imagens, com exemplos de reconhecimento facial, OCR (reconhecimento óptico de caracteres) e geração de legendas automáticas.
 
 Utilizei os serviços **Face Detection**, **Optical Character Recognition (OCR)** e **Image Analysis** com a funcionalidade de legendas automáticas. Este projeto está estruturado para demonstrar o fluxo de configuração, uso e análise de resultados desses serviços.
 
