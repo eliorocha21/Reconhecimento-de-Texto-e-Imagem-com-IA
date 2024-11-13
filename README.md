@@ -1,0 +1,1 @@
+# Reconhecimento-de-Texto-e-Imagem-com-IA
